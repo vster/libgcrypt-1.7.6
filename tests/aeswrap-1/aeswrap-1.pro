@@ -12,8 +12,6 @@ INCLUDEPATH += \
 LIBS += \
     -L../../src/.libs -lgcrypt -lgpg-error
 
-HEADERS += \
-    ../../src/types.h \
-    ../../config.h
+HEADERS +=
 
 DEFINES += HAVE_CONFIG_H

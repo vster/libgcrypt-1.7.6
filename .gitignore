@@ -1,0 +1,9 @@
+*.user
+*.vcproj
+*.o
+Makefile*
+*.exe
+build*
+*.so
+*.a
+*.lo

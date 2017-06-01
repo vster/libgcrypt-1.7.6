@@ -5117,9 +5117,9 @@ available through the public API.
 
    (1) Chae Hoon Lim and Pil Joong Lee.  A key recovery attack on
 discrete log-based schemes using a prime order subgroup.  In Burton S.
-Kaliski Jr., editor, Advances in Cryptology: Crypto '97, pages 249­-263,
-Berlin / Heidelberg / New York, 1997.  Springer-Verlag.  Described on
-page 260.
+Kaliski Jr., editor, Advances in Cryptology: Crypto '97, pages
+249­-263, Berlin / Heidelberg / New York, 1997.  Springer-Verlag.
+Described on page 260.
 
 
 File: gcrypt.info,  Node: Random-Number Subsystem Architecture,  Prev: Prime-Number-Generator Subsystem Architecture,  Up: Architecture
@@ -7279,19 +7279,19 @@ Node: Hashing and MACing Subsystem Architecture202569
 Node: Multi-Precision-Integer Subsystem Architecture204492
 Node: Prime-Number-Generator Subsystem Architecture205930
 Ref: Prime-Number-Generator Subsystem Architecture-Footnote-1207861
-Node: Random-Number Subsystem Architecture208153
-Node: CSPRNG Description210677
-Ref: CSPRNG Description-Footnote-1212233
-Node: FIPS PRNG Description212356
-Node: Self-Tests214490
-Node: FIPS Mode225949
-Ref: fig:fips-fsm229775
-Ref: tbl:fips-states229878
-Ref: tbl:fips-state-transitions231130
-Node: Library Copying234751
-Node: Copying262857
-Node: Figures and Tables282033
-Node: Concept Index282458
-Node: Function and Data Index293055
+Node: Random-Number Subsystem Architecture208152
+Node: CSPRNG Description210676
+Ref: CSPRNG Description-Footnote-1212232
+Node: FIPS PRNG Description212355
+Node: Self-Tests214489
+Node: FIPS Mode225948
+Ref: fig:fips-fsm229774
+Ref: tbl:fips-states229877
+Ref: tbl:fips-state-transitions231129
+Node: Library Copying234750
+Node: Copying262856
+Node: Figures and Tables282032
+Node: Concept Index282457
+Node: Function and Data Index293054
 
 End Tag Table
